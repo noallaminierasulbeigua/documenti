@@ -1,4 +1,4 @@
-### Hi there 👋
+### Repo documenti per l'iniziativa #noallaminierasulbeigua
 
 <!--
 **noallaminierasulbeigua/noallaminierasulbeigua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
